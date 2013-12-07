@@ -25,7 +25,7 @@
 >详细解答过程请移步：http://t.cn/8kZZ1Uy
 
 * **参考链接(可选)**：
->http://devnet.jetbrains.com/thread/432700
+>[http://devnet.jetbrains.com/thread/432700](http://devnet.jetbrains.com/thread/432700 "外链文章")
 ---
 * **作者**：Judas.n [作者Blog](http://www.YouMeek.com "个人博客")
 * **时间**：2013年12月1日 23:06:45
